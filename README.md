@@ -28,3 +28,7 @@ Excel Sales Analytics This Project contains P&L report along with Customer Perfo
 
 ## **Technical & Soft Skills:** 
 Proficiency in ETL methodology (Extract, Transform, Load). Skills to generate a date table using Power Query. Ability to derive fiscal months and quarters. Establishing data model relationships with Power Pivot. Proficiency in incorporating supplementary data into an existing data model. Utilizing DAX to create calculated columns. Soft Skills: Refined understanding of Sales & Finance Reports Designing user-centric reports with empathy in mind. Optimization of report generation through meticulous fine-tuning. Developing a systematic approach to devising a report building plan.
+
+![Screenshot 2024-08-12 105556](https://github.com/user-attachments/assets/42cde5c0-1df7-419b-a6c9-0ec014f0c9d5)
+![Screenshot 2024-08-02 001410](https://github.com/user-attachments/assets/b1470688-2fca-495c-8d0a-815011823181)
+![Screenshot 2024-08-02 001339](https://github.com/user-attachments/assets/682839e9-4b11-4cb9-82dd-9fbb7fbed6a8)
